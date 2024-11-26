@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "next": "^15.0.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "name": "challengefront",
+  "version": "1.0.0",
+  "description": "![image](https://firebasestorage.googleapis.com/v0/b/testeupload2-4bf5c.appspot.com/o/TVYTbAXWheQpRcWDaDMu%201.png?alt=media&token=d5724e7a-5ca2-4da1-84e3-f64d1daf4999)",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Larissa",
+  "license": "MIT"
+}
